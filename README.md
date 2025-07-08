@@ -1,3 +1,2 @@
-# project1
+# first project
 my first project repository
-this is the change i made
